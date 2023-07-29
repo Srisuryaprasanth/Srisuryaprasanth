@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Srisuryaprasanth
+- 👀 I’m interested in Software developer role...
+- 🌱 I’m currently learning c and python...
+- 💌 Reach me by ssrisuryaprasanth@gmail.com...
+
+<!---
+Srisuryaprasanth/Srisuryaprasanth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
